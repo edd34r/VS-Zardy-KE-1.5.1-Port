@@ -1,0 +1,10 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="Zardy-opti.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="Idle0000" x="0" y="0" width="523" height="759"/>
+	<SubTexture name="Sing Down0000" x="523" y="0" width="648" height="744"/>
+	<SubTexture name="Sing Left0000" x="1171" y="0" width="792" height="752"/>
+	<SubTexture name="Sing Right0000" x="0" y="759" width="772" height="783"/>
+	<SubTexture name="Sing Up0000" x="772" y="759" width="686" height="852"/>
+</TextureAtlas>

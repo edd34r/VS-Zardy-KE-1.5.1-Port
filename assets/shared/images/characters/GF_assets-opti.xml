@@ -1,0 +1,9 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="GF_assets-opti.png">
+	<!-- Created with Adobe Animate version 21.0.6.41649 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="gf dance left0000" x="0" y="0" width="710" height="643" frameX="0" frameY="0" frameWidth="710" frameHeight="660"/>
+	<SubTexture name="gf dance left0001" x="710" y="0" width="698" height="660" frameX="0" frameY="0" frameWidth="710" frameHeight="660"/>
+	<SubTexture name="gf dance right0000" x="0" y="660" width="710" height="647" frameX="0" frameY="0" frameWidth="710" frameHeight="660"/>
+	<SubTexture name="gf dance right0001" x="710" y="0" width="698" height="660" frameX="0" frameY="0" frameWidth="710" frameHeight="660"/>
+</TextureAtlas>
